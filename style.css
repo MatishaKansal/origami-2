@@ -1,0 +1,22 @@
+h1{
+    color: rgb(254, 219, 225);
+}
+p{
+    font-size: 24px;
+    color:yellow;
+}
+h2{
+    color: rgb(136, 221, 252);
+}
+.footer{
+    font-size: 23px;
+    color: rgb(255, 255, 255);
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.back{
+    background-image: url(bg.PNG);
+}
